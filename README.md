@@ -8,4 +8,4 @@ I'll update again later.
 The user script is now complete, making it possible to launch missiles. However, since the missile flies toward the nearest player, you need to align it with the direction your craft is facing. There is also an issue with the missile's trajectory being off.
 
 # March　18, 2026
-Lock-on system is now available! I’ll be adding more types of missiles in the future.
+Lock-on system is now available! I’ll be adding more types of missiles later.
